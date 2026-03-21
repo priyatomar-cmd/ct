@@ -61,4 +61,6 @@ print("c = ",id(c))
 c=a<b
 print("Comparision = ",c)
 print("c value changes = ",id(c))
+d = a<b
+print("Comparision = ",d)
 
